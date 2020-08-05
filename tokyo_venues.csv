@@ -1,0 +1,97 @@
+wa,District,Ward,Longitude,Latitude,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue,Clusters
+85,Akabane,Kita,139.7207999,35.7781394,Sake Bar,Dumpling Restaurant,Tea Room,Clothing Store,Soba Restaurant,Coffee Shop,Shopping Mall,Bakery,Ramen Restaurant,Electronics Store,0
+4,Akihabara,Chiyoda,139.7712503,35.6997364,Café,Electronics Store,Sake Bar,Arcade,Ramen Restaurant,Comic Shop,Hobby Shop,Fishing Spot,Fried Chicken Joint,French Restaurant,0
+60,Aobadai,Meguro,139.6943,35.6509,Park,Diner,Gift Shop,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Yoshoku Restaurant,1
+49,Aomi,Koto,139.78120230000002,35.624778899999995,Coffee Shop,Shopping Mall,Fast Food Restaurant,Playground,Plaza,Farmers Market,French Restaurant,Food Truck,Flower Shop,Fishing Spot,0
+101,Aoto,Katsushika,139.85617319999997,35.7456971,Convenience Store,Sake Bar,Chinese Restaurant,Fried Chicken Joint,Udon Restaurant,Donburi Restaurant,Italian Restaurant,Sandwich Place,Donut Shop,Drugstore,3
+23,Aoyama,Minato,139.72299999999998,35.672,Japanese Curry Restaurant,Convenience Store,French Restaurant,Ramen Restaurant,Sushi Restaurant,Rock Club,Wine Shop,Donut Shop,Drugstore,Donburi Restaurant,0
+88,Arakawa,Arakawa,139.78131000000002,35.737528999999995,Convenience Store,Yoshoku Restaurant,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Farmers Market,3
+40,Ariake,Koto,139.7932562,35.634556200000006,Hotel,Intersection,Light Rail Station,Convenience Store,Farmers Market,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,3
+79,Asagaya,Suginami,139.63547240000003,35.7048403,Sake Bar,Japanese Restaurant,Movie Theater,Chinese Restaurant,Bubble Tea Shop,Thai Restaurant,Takoyaki Place,Diner,Fried Chicken Joint,Discount Store,0
+35,Asakusa,Taito,139.797635,35.717528,Yoshoku Restaurant,Pastry Shop,Bakery,Japanese Restaurant,Whisky Bar,Farmers Market,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,0
+24,Azabu,Minato,139.7339705,35.6564018,Japanese Restaurant,Bakery,Seafood Restaurant,Cocktail Bar,Chinese Restaurant,Thai Restaurant,Sake Bar,Ice Cream Shop,Wagashi Place,Hotpot Restaurant,0
+73,Daikanyama,Shibuya,139.7032482,35.648164200000004,Cosmetics Shop,Burger Joint,Food Truck,Bubble Tea Shop,Café,Boutique,Vegetarian / Vegan Restaurant,Gym Pool,Bar,Gift Shop,0
+64,Den-en-chofu,Ota,139.6682,35.5939,Park,Tennis Court,Yoshoku Restaurant,Fishing Spot,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fast Food Restaurant,1
+71,Ebisu,Shibuya,139.7102101,35.646437799999994,Dim Sum Restaurant,Japanese Restaurant,Bakery,Deli / Bodega,Coffee Shop,Sushi Restaurant,Bistro,Sake Bar,Wine Bar,Hotel Bar,0
+47,Etchujima,Koto,139.7926376,35.6679,Bus Stop,Platform,Train Station,Yoshoku Restaurant,Fishing Spot,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fast Food Restaurant,0
+10,Ginza,Chuo,139.7643056,35.66951555,Coffee Shop,Unagi Restaurant,Steakhouse,Bookstore,Café,Clothing Store,Smoke Shop,Japanese Restaurant,Seafood Restaurant,Farmers Market,0
+51,Gotanda,Shinagawa,139.7237494,35.6261042,Yoshoku Restaurant,Udon Restaurant,Ramen Restaurant,Sake Bar,Chinese Restaurant,Cantonese Restaurant,Bed & Breakfast,Seafood Restaurant,Italian Restaurant,Wine Bar,0
+19,Hamamatsucho,Minato,139.7570622,35.655111100000006,Sake Bar,Yoshoku Restaurant,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Farmers Market,0
+63,Haneda,Ota,139.7466458,35.5479444,Diner,Convenience Store,Asian Restaurant,Ramen Restaurant,Farmers Market,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,4
+72,Harajuku,Shibuya,139.70533569999998,35.6687049,Japanese Restaurant,Dessert Shop,Roof Deck,Boutique,Coffee Shop,Australian Restaurant,Café,Arts & Crafts Store,Art Museum,Restaurant,0
+53,Hatanodai,Shinagawa,139.7027094,35.6048391,Convenience Store,Train Station,Platform,Dessert Shop,Drugstore,Ramen Restaurant,BBQ Joint,Yoshoku Restaurant,Fast Food Restaurant,French Restaurant,3
+12,Hatchobori,Chuo,139.7776367,35.674645299999995,Wine Bar,Japanese Restaurant,Diner,Chinese Restaurant,Kushikatsu Restaurant,Convenience Store,BBQ Joint,Bar,Hotel,Fishing Spot,0
+96,Hikarigaoka,Nerima,139.629415,35.7585088,ATM,Bakery,Ice Cream Shop,Metro Station,Platform,Dessert Shop,Convenience Store,Coffee Shop,Bus Stop,Italian Restaurant,0
+31,Hongo,Bunkyo,139.7601,35.7088,Café,Ramen Restaurant,Japanese Restaurant,Convenience Store,Coffee Shop,Italian Restaurant,Arts & Crafts Store,Grocery Store,Dumpling Restaurant,Electronics Store,4
+29,Ichigaya,Shinjuku,139.735504,35.691318700000004,Fishing Spot,Convenience Store,Coffee Shop,Soba Restaurant,Café,Historic Site,Clothing Store,Sake Bar,Farmers Market,Falafel Restaurant,3
+6,Iidabashi,Chiyoda,139.7456774,35.7031684,Ramen Restaurant,Yoshoku Restaurant,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Farmers Market,4
+81,Ikebukuro,Toshima,139.7107453,35.730441799999994,Sushi Restaurant,Dim Sum Restaurant,Plaza,Pastry Shop,Grocery Store,Café,Chinese Restaurant,Furniture / Home Store,Juice Bar,Farmers Market,0
+58,Jiyugeoka,Meguro,139.6687,35.6073,Dessert Shop,Café,Unagi Restaurant,Japanese Curry Restaurant,Clothing Store,Tea Room,Bakery,Italian Restaurant,Australian Restaurant,Grocery Store,0
+15,Kachidoki,Chuo,139.777168,35.6590031,Soba Restaurant,Korean Restaurant,Farmers Market,BBQ Joint,Park,Drugstore,Dumpling Restaurant,Electronics Store,Falafel Restaurant,Donut Shop,0
+28,Kagurazaka,Shinjuku,139.73413469999997,35.7039298,ATM,Ramen Restaurant,French Restaurant,Bookstore,Chinese Restaurant,Bar,Coffee Shop,Dessert Shop,Restaurant,Gourmet Shop,0
+62,Kamata,Ota,139.7146628,35.561885600000004,Sake Bar,Bar,Ramen Restaurant,Playground,Soba Restaurant,Chinese Restaurant,Café,Takoyaki Place,Korean Restaurant,Hotel,0
+102,Kameari,Katsushika,139.8478007,35.7666652,Sake Bar,Convenience Store,Café,Fast Food Restaurant,Outdoor Sculpture,Electronics Store,Udon Restaurant,Donut Shop,Yakitori Restaurant,Furniture / Home Store,0
+41,Kameido,Koto,139.827138,35.697698700000004,Coffee Shop,Drugstore,Discount Store,Gym,Café,Deli / Bodega,Bookstore,Convenience Store,BBQ Joint,Flower Shop,0
+7,Kanda,Chiyoda,139.7709,35.6918,Sushi Restaurant,Ramen Restaurant,BBQ Joint,Sake Bar,Donburi Restaurant,Donut Shop,Drugstore,Dumpling Restaurant,Electronics Store,Furniture / Home Store,4
+68,Karasuyama,Setagaya,139.5968,35.6753,Bus Station,Yoshoku Restaurant,Gourmet Shop,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Fast Food Restaurant,0
+104,Kasai,Edogawa,139.8723,35.6637,Japanese Restaurant,Used Bookstore,Sake Bar,Steakhouse,Grocery Store,Fast Food Restaurant,Shop & Service,Coffee Shop,Donburi Restaurant,Arcade,0
+1,Kasumigaseki,Chiyoda,139.7509719,35.6740542,Shoe Repair,Convenience Store,Street Art,Yoshoku Restaurant,Fast Food Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,3
+9,Kayabacho,Chuo,139.7796972,35.6792576,Coffee Shop,Japanese Restaurant,Soba Restaurant,Yakitori Restaurant,Wine Bar,Indian Restaurant,Pizza Place,Convenience Store,Bed & Breakfast,French Restaurant,0
+39,Kiba,Koto,139.8061,35.6722,Art Gallery,Intersection,French Restaurant,Park,Yoshoku Restaurant,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,Food Truck,Flower Shop,0
+36,Kinshicho,Sumida,139.8150431,35.6963122,Coffee Shop,Restaurant,Soccer Field,Record Shop,Tea Room,Stationery Store,Multiplex,Spa,Supermarket,Flower Shop,0
+67,Kinuta,Setagaya,139.6121,35.6401,Grocery Store,Convenience Store,Park,Yoshoku Restaurant,Fishing Spot,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,3
+98,Kitasenju,Adachi,139.804177,35.754036,Art Gallery,Wagashi Place,Convenience Store,History Museum,Yoshoku Restaurant,Fast Food Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,3
+78,Koenji,Suginami,139.649909,35.7049419,Supermarket,Convenience Store,Furniture / Home Store,Café,Thai Restaurant,Hookah Bar,Sake Bar,Seafood Restaurant,Arcade,Drugstore,0
+105,Koiwa,Edogawa,139.881843,35.7332364,Italian Restaurant,Ramen Restaurant,Udon Restaurant,Discount Store,Ice Cream Shop,Restaurant,Convenience Store,Coffee Shop,Farmers Market,Food Truck,0
+82,Komagome,Toshima,139.7472412,35.7365848,Convenience Store,Sake Bar,Chinese Restaurant,Donburi Restaurant,Dumpling Restaurant,Ramen Restaurant,Steakhouse,Pizza Place,Food Truck,Flower Shop,3
+89,Machiya,Arakawa,139.7806071,35.7427407,Breakfast Spot,Train Station,Italian Restaurant,Convenience Store,Concert Hall,Shopping Mall,Fast Food Restaurant,Café,Noodle House,Donut Shop,0
+3,Marunouchi,Chiyoda,139.76522169999998,35.6806555,Japanese Restaurant,Café,Hotel,Museum,Sushi Restaurant,Plaza,Shoe Store,Dumpling Restaurant,Electronics Store,Falafel Restaurant,0
+56,Meguro,Meguro,139.68801399999998,35.62125,Grocery Store,Bus Stop,Gourmet Shop,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Fast Food Restaurant,0
+91,Minamisenju,Arakawa,139.79667659999998,35.7366615,Intersection,Café,Convenience Store,Bike Rental / Bike Share,Yoshoku Restaurant,Fishing Spot,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,3
+20,Mita,Minato,139.7409,35.6472,Italian Restaurant,Kaiseki Restaurant,Indian Restaurant,Flower Shop,Chinese Restaurant,Fast Food Restaurant,Fried Chicken Joint,French Restaurant,Food Truck,Fishing Spot,0
+43,Monzennakacho,Koto,139.7948404,35.6724719,Sake Bar,BBQ Joint,Café,Noodle House,Sri Lankan Restaurant,Coffee Shop,Steakhouse,Ice Cream Shop,Indian Restaurant,Sandwich Place,0
+37,Morishita,Sumida,139.7982399,35.688030499999996,Sake Bar,Convenience Store,BBQ Joint,Ramen Restaurant,Tea Room,Japanese Restaurant,Nabe Restaurant,Fried Chicken Joint,Donburi Restaurant,Donut Shop,0
+0,Nagatacho,Chiyoda,139.7434685,35.675618,Coffee Shop,Intersection,Convenience Store,Donburi Restaurant,Drugstore,Dumpling Restaurant,Donut Shop,Electronics Store,Falafel Restaurant,Gourmet Shop,3
+57,Nakameguro,Meguro,139.6987133,35.644202299999996,Japanese Restaurant,BBQ Joint,Pastry Shop,Ramen Restaurant,Sake Bar,Shopping Mall,Coffee Shop,Udon Restaurant,Italian Restaurant,Australian Restaurant,0
+8,Nihonbashi,Chuo,139.77450290000002,35.68406775,Coffee Shop,Italian Restaurant,Tempura Restaurant,Soba Restaurant,Outdoor Sculpture,Bar,Yoshoku Restaurant,Fishing Spot,Fried Chicken Joint,French Restaurant,0
+90,Nippori,Arakawa,139.7713635,35.7289204,Convenience Store,Sake Bar,Noodle House,Tempura Restaurant,Ramen Restaurant,Clothing Store,Café,Donburi Restaurant,Hotel,Food Truck,3
+17,Odaiba,Minato,139.779364,35.619050200000004,Park,Diner,Gift Shop,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Yoshoku Restaurant,1
+80,Ogikubo,Suginami,139.6201587,35.70448029999999,Italian Restaurant,Japanese Restaurant,Bistro,Ramen Restaurant,Shopping Mall,Coffee Shop,Steakhouse,Bookstore,Dessert Shop,BBQ Joint,0
+54,Oimachi,Shinagawa,139.733944,35.6076094,Japanese Restaurant,Donburi Restaurant,Indian Restaurant,Steakhouse,Theater,Soba Restaurant,Fast Food Restaurant,French Restaurant,Food Truck,Flower Shop,0
+95,Oizumi,Nerima,139.599,35.7589,Park,Diner,Gift Shop,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Yoshoku Restaurant,1
+86,Oji,Kita,139.7382749,35.7523466,Sake Bar,Train Station,Bowling Alley,Arcade,Chinese Restaurant,Fast Food Restaurant,Clothing Store,Flower Shop,Furniture / Home Store,Fried Chicken Joint,0
+27,Okubo,Shinjuku,139.69731869999998,35.700791100000004,Ramen Restaurant,Seafood Restaurant,Music Store,Farmers Market,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Fast Food Restaurant,4
+61,Omori,Ota,139.7279334,35.5884735,Coffee Shop,Noodle House,Restaurant,Indian Restaurant,Tapas Restaurant,Steakhouse,Stationery Store,Hotel,Supermarket,Fast Food Restaurant,0
+52,Osaki,Shinagawa,139.7256,35.6204,Shanghai Restaurant,Bar,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Farmers Market,0
+2,Otemachi,Chiyoda,139.7636157,35.686757,Bookstore,Concert Hall,Historic Site,Hotel,Sushi Restaurant,Yoshoku Restaurant,Fishing Spot,Fried Chicken Joint,French Restaurant,Food Truck,0
+21,Roppongi,Minato,139.7334981,35.662456799999994,Steakhouse,Beer Bar,Irish Pub,Ice Cream Shop,Falafel Restaurant,Udon Restaurant,Sake Bar,American Restaurant,Hotpot Restaurant,Hotel Bar,0
+38,Ryogoku,Sumida,139.7929596,35.6957996,Japanese Restaurant,Udon Restaurant,Liquor Store,Nabe Restaurant,Sake Bar,Shopping Mall,Soba Restaurant,Tempura Restaurant,Beer Bar,Indie Theater,0
+75,Sendagaya,Shibuya,139.7113311,35.6812658,Coffee Shop,Bus Stop,Art Gallery,Yoshoku Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,0
+83,Senkawa,Toshima,139.689414,35.738209499999996,Convenience Store,Italian Restaurant,Chinese Restaurant,Dumpling Restaurant,Ramen Restaurant,Fast Food Restaurant,Donburi Restaurant,Hotpot Restaurant,Hotel Bar,Donut Shop,3
+65,Setagaya,Setagaya,139.65627,35.646096,Tea Room,Gourmet Shop,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Fast Food Restaurant,Farmers Market,0
+103,Shibamata,Katsushika,139.8752024,35.756429499999996,Outdoor Sculpture,Convenience Store,Gift Shop,Noodle House,Tourist Information Center,Dessert Shop,Train Station,Yakitori Restaurant,Indian Restaurant,Fishing Spot,0
+70,Shibuya,Shibuya,139.6987107,35.6645956,Concert Hall,Optical Shop,Dessert Shop,Ice Cream Shop,Ramen Restaurant,Convenience Store,Coffee Shop,Trail,Cocktail Bar,Yoshoku Restaurant,0
+66,Shimokitazawa,Setagaya,139.6663345,35.6616779,Pet Café,Music Venue,Café,Pizza Place,Bar,Yoshoku Restaurant,Gift Shop,Fried Chicken Joint,French Restaurant,Food Truck,0
+50,Shinagawa,Shinagawa,139.73891,35.599252,Grocery Store,Restaurant,Train Station,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,0
+18,Shinbashi,Minato,139.7558355,35.6651764,Sake Bar,Bistro,Japanese Restaurant,Hotel,Ramen Restaurant,Seafood Restaurant,Hobby Shop,Noodle House,Hotel Bar,Hookah Bar,0
+25,Shinjuku,Shinjuku,139.7036319,35.69376320000001,Bar,Japanese Restaurant,Jazz Club,Rock Club,Ramen Restaurant,Pub,BBQ Joint,Soba Restaurant,Farmers Market,French Restaurant,0
+46,Shirakawa,Koto,139.8042,35.6823,Convenience Store,Ramen Restaurant,Grocery Store,Farmers Market,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Fast Food Restaurant,3
+84,Sugamo,Toshima,139.73942730000002,35.7334119,Arcade,Japanese Restaurant,BBQ Joint,Diner,Ramen Restaurant,Shopping Mall,Café,Tempura Restaurant,Sake Bar,Hotel Bar,0
+48,Sunamachi,Koto,139.8313,35.6797,Park,Deli / Bodega,Shopping Mall,Chinese Restaurant,BBQ Joint,Coffee Shop,Fishing Spot,Furniture / Home Store,Fried Chicken Joint,French Restaurant,0
+87,Tabata,Kita,139.76171509999998,35.7373701,Train Station,Yoshoku Restaurant,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Farmers Market,0
+26,Takadanobaba,Shinjuku,139.7036425,35.712683899999995,Sake Bar,Arcade,Vietnamese Restaurant,Sushi Restaurant,Donburi Restaurant,Donut Shop,Discount Store,Drugstore,Dumpling Restaurant,Electronics Store,0
+93,Takashimadaira,Itabashi,139.6589375,35.788369200000005,Park,Diner,Gift Shop,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Yoshoku Restaurant,1
+99,Takenotsuka,Adachi,139.79071159999998,35.794532200000006,Convenience Store,ATM,Mobile Phone Shop,Noodle House,Supermarket,Fried Chicken Joint,Plaza,French Restaurant,Food Truck,Flower Shop,3
+69,Tamagawa,Setagaya,139.6261,35.6125,Shopping Mall,Hotpot Restaurant,Café,Coffee Shop,BBQ Joint,Liquor Store,Dim Sum Restaurant,Ice Cream Shop,Burger Joint,Falafel Restaurant,0
+100,Tateishi,Katsushika,139.8483,35.7407,Convenience Store,Yoshoku Restaurant,Fast Food Restaurant,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Farmers Market,3
+55,Tennozu,Shinagawa,139.75077190000002,35.6205526,Sandwich Place,Convenience Store,Yoshoku Restaurant,Farmers Market,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Fast Food Restaurant,3
+22,Toranomon,Minato,139.750049,35.67017,Japanese Restaurant,South Indian Restaurant,Café,Coffee Shop,Hong Kong Restaurant,Yakitori Restaurant,Sake Bar,Shabu-Shabu Restaurant,Yoshoku Restaurant,Unagi Restaurant,0
+42,Toyocho,Koto,139.8174761,35.6695961,Convenience Store,Italian Restaurant,Bed & Breakfast,Fast Food Restaurant,Platform,Café,Donburi Restaurant,Hotpot Restaurant,French Restaurant,Donut Shop,3
+11,Tsukiji,Chuo,139.772563,35.668085299999994,Coffee Shop,Soba Restaurant,Tea Room,Grocery Store,Café,Bakery,Sushi Restaurant,Falafel Restaurant,Electronics Store,Farmers Market,0
+14,Tsukishima,Chuo,139.7847168,35.6645143,ATM,Metro Station,Convenience Store,Ramen Restaurant,Café,Bakery,Sake Bar,Hotel Bar,French Restaurant,Donut Shop,0
+16,Tsukuda,Chuo,139.7844,35.6692,Italian Restaurant,Supermarket,Intersection,Grocery Store,Bus Stop,Pharmacy,Fishing Spot,French Restaurant,Food Truck,Flower Shop,0
+34,Ueno,Taito,139.7776445,35.711758700000004,Italian Restaurant,Convenience Store,Soba Restaurant,Ramen Restaurant,Sake Bar,Donut Shop,Donburi Restaurant,Drugstore,Dumpling Restaurant,Discount Store,4
+32,Yayoi,Bunkyo,139.762,35.7171,Whisky Bar,Yoshoku Restaurant,Farmers Market,Furniture / Home Store,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,Fishing Spot,Fast Food Restaurant,2
+30,Yotsuya,Shinjuku,139.7288,35.6854,Sushi Restaurant,Convenience Store,Café,Liquor Store,Platform,Fishing Spot,Fried Chicken Joint,French Restaurant,Food Truck,Flower Shop,3
+76,Yoyogi,Shibuya,139.7020805,35.6839519,Coffee Shop,Convenience Store,Restaurant,Café,Japanese Restaurant,Dumpling Restaurant,Drugstore,Electronics Store,Falafel Restaurant,Discount Store,3
+5,Yurakucho,Chiyoda,139.7616737,35.674423299999994,Bar,Steakhouse,Café,French Restaurant,Hotel Bar,Beer Bar,Coffee Shop,Tourist Information Center,Fishing Spot,Fried Chicken Joint,0
